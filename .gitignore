@@ -1,0 +1,17 @@
+# Build
+build/
+app/build/
+.gradle/
+
+# Android Studio
+*.iml
+.idea/
+local.properties
+captures/
+
+# Kotlin
+*.class
+
+# Keystore
+*.jks
+*.keystore
